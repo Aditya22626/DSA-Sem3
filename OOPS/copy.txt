@@ -1,0 +1,5 @@
+Hello, C++ File Handeling
+ya to win hai ya learn hai
+coding is not fun
+I am AI's Boss
+Appending new line to file 
